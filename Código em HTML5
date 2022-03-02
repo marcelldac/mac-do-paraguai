@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mac do Paraguai</title>
+    <link rel="shortcut icon" href= "https://img.wattpad.com/86654cfcae05ace3943b9f9bcd5e066c9cdd34e0/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7261376170586533624b735656513d3d2d3833373536373433372e313566323332333935623662653033613639323633383631323936392e6a7067?s=fit&w=720&h=720">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>    
+    <div id="window">
+        <div id="title-bar">
+            <div id="dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div id="window-body">
+            <h1>Mac do paraguai</h1>
+        </div>
+    </div>
+</body>
+</html>
